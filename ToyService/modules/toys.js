@@ -28,5 +28,5 @@ const fs = require('fs');
             price = (json[x].price)*(tax+1)
             box_of_prices.push(price);
         }
-        return box_of_prices;
+        return json;
     };
