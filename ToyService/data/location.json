@@ -1,0 +1,10 @@
+[
+    {
+        "name":"raleigh",
+        "tax_rate":0.075
+    },
+    {
+        "name":"durham",
+        "tax_rate":0.08
+    }
+]
